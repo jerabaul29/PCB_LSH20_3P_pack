@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LSH20_Utags")(type "KiCad")(uri "${KIPRJMOD}/LSH20_Utags.pretty")(options "")(descr ""))
+)
